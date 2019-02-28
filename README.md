@@ -5,5 +5,8 @@ live-script and pdfs of dsp examples implemented in matlab.
 #### Median Filter
 #### Running Mean Filter
 #### TKEO Filter
-
-### TODO - detrending, averaging, template matching
+#### Detrending
+#### Averaging
+#### Template Matching
+#### Fourier Transform
+### TODO add descriptions
