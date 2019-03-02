@@ -9,4 +9,7 @@ live-script and pdfs of dsp examples implemented in matlab.
 #### Averaging
 #### Template Matching
 #### Fourier Transform
+#### FIR Filters
+#### IIR Filters
+
 ### TODO add descriptions
