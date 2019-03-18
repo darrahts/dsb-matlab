@@ -1,6 +1,8 @@
 # dsb-matlab
 live-script and pdfs of dsp examples implemented in matlab.
 
+## Updated: Mar 18, 2019
+
 #### Gaussian Mean Filter
 #### Median Filter
 #### Running Mean Filter
@@ -11,5 +13,6 @@ live-script and pdfs of dsp examples implemented in matlab.
 #### Fourier Transform
 #### FIR Filters
 #### IIR Filters
+#### Windowed-Sinc Filters
 
 ### TODO add descriptions
