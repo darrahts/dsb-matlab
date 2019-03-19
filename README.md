@@ -15,4 +15,6 @@ live-script and pdfs of dsp examples implemented in matlab.
 #### IIR Filters
 #### Windowed-Sinc Filters
 
-### TODO add descriptions
+### TODO 
+- add descriptions
+- finish rollOffCharacteristics.mlx
